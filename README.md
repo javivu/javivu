@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://github.com/javivu/javivu/blob/main/logo_areatic.PNG" alt="Área.TIC">
+<img src="https://github.com/javivu/javivu/blob/main/img/logo_areatic.png" alt="Área.TIC">
 <!--
 **javivu/javivu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
